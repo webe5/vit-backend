@@ -12,15 +12,27 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^1.11.0",
+    "bcryptjs": "^3.0.2",
+    "body-parser": "^2.2.0",
     "cors": "^2.8.5",
     "dotenv": "^17.2.1",
     "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
     "multer": "^2.0.2",
     "node-fetch": "^3.3.2",
+    "openai": "^5.12.2",
     "tesseract.js": "^6.0.1"
   },
   "devDependencies": {
     "nodemon": "^3.1.10"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webe5/vit-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/webe5/vit-backend/issues"
+  },
+  "homepage": "https://github.com/webe5/vit-backend#readme",
   "description": ""
 }
